@@ -1,0 +1,482 @@
+vector_index_block:
+  jurisdiction: Brazil
+  iso: BR
+  block: 3
+  range: [191,285]
+  status: SCAFFOLDED_PENDING_VERIFICATION
+  vectors:
+    - vector_id: "BR-V-0191"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0192"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0193"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0194"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0195"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0196"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0197"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0198"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0199"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0200"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0201"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0202"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0203"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0204"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0205"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0206"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0207"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0208"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0209"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0210"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0211"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0212"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0213"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0214"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0215"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0216"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0217"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0218"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0219"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0220"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0221"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0222"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0223"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0224"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0225"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0226"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0227"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0228"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0229"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0230"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0231"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0232"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0233"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0234"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0235"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0236"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0237"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0238"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0239"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0240"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0241"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0242"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0243"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0244"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0245"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0246"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0247"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0248"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0249"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0250"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0251"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0252"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0253"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0254"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0255"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0256"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0257"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0258"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0259"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0260"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0261"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0262"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0263"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0264"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0265"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0266"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0267"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0268"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0269"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0270"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0271"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0272"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0273"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0274"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0275"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0276"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0277"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0278"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0279"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0280"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0281"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0282"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0283"
+      anchor: "1964-1985 military dictatorship (National Truth Commission public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0284"
+      anchor: "Operation Condor and regional repression"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "BR-V-0285"
+      anchor: "Amazon deforestation and indigenous land rights impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
