@@ -1,0 +1,17 @@
+{
+  "url": "https://www.amnesty.org/en/location/americas/south-america/brazil/",
+  "final_url": "https://www.amnesty.org/en/location/americas/south-america/brazil/",
+  "title": "Amnesty - Brazil",
+  "fetched_at": "2026-11-23T15:31:56.129353Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 102278,
+  "sha256": "7fbe0612418bb4b70435b3cf373b709088afae095d48d2ec27440d3431cc7ede",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
